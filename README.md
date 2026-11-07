@@ -1,5 +1,7 @@
 # Business Decision Toolkit
 
+**Explore online:** [Visit the Business Decision Toolkit website](https://luckygithub777.github.io/business-decision-toolkit/). Discover the three practical templates and choose a decision to explore.
+
 Three fill-in templates for improving the evidence behind practical business choices.
 
 - [Business Model Review](templates/01_business_model_review_template.md) — define the offer, customer value, costs and operating risks.
